@@ -4,9 +4,23 @@
 
 O objetivo da atividade é desenvolver um sistema de inventário para o jogo The Legend of Zelda: Tears of the Kingdom, utilizando três páginas principais: login, inventário e cadastro de itens. O sistema deve permitir ao usuário cadastrar, visualizar e gerenciar itens dentro do jogo, bem como realizar login para acessar suas informações.
 
+![zelda login](https://github.com/user-attachments/assets/f66454c4-a2e3-4cb6-86c0-9954cc60c58d)
+![zelda login failed](https://github.com/user-attachments/assets/f4f475c8-27ad-45f3-97c5-7be5f31ab8b3)
+
+
 ## O que é um inventário de um jogo?
 
 O inventário de um jogo é um sistema onde o jogador pode armazenar e gerenciar os itens coletados durante sua jornada. No contexto de The Legend of Zelda: Tears of the Kingdom, os itens podem incluir armas, escudos, poções e outros objetos que são essenciais para o progresso no jogo. O inventário geralmente permite visualizar, equipar ou descartar itens, e também pode ter um sistema de organização (como categorias de itens ou quantidade).
+
+## Inventário do projeto
+
+![iventario](https://github.com/user-attachments/assets/408c768b-6d3f-4b32-8f96-ec25dc58dfe1)
+
+## Cadastro de Itens
+
+![add item](https://github.com/user-attachments/assets/acbc7419-e10d-46fc-ab95-511124bafa8b)
+
+
 
 ## Quais sistemas utilizam a funcionalidade?
 
