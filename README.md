@@ -22,7 +22,7 @@ O inventário de um jogo é um sistema onde o jogador pode armazenar e gerenciar
 
 
 
-## Quais sistemas utilizam a funcionalidade?
+# Quais sistemas utilizam a funcionalidade?
 
 Vários tipos de sistemas e jogos utilizam inventários. Isso inclui:
 
@@ -34,13 +34,13 @@ Jogos de ação e aventura que precisam controlar itens coletados ou comprados a
 
 Aplicativos de gerenciamento de recursos, como plataformas de e-commerce ou gerenciamento de inventários de produtos.
 
-## Por que uma funcionalidade é importante?
+# Por que uma funcionalidade é importante?
 
 O inventário é uma funcionalidade essencial porque permite ao jogador ou usuário gerenciar os recursos que ele encontra ou coleta durante o jogo. Ele contribui para a experiência de imersão e progresso, pois os itens no inventário podem ser essenciais para completar missões, enfrentar desafios e melhorar o desempenho no jogo. Além disso, um bom sistema de inventário melhora a organização e facilita a jogabilidade.
 
-## A Implementação
-### Front-End
-Quais ferramentas/frameworks foram utilizados? Por que?
+# A Implementação
+## Front-End
+### Quais ferramentas/frameworks foram utilizados? Por que?
 
 Para a parte de front-end, utilizaremos as seguintes ferramentas:
 
