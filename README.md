@@ -4,7 +4,10 @@
 
 O objetivo da atividade é desenvolver um sistema de inventário para o jogo The Legend of Zelda: Tears of the Kingdom, utilizando três páginas principais: login, inventário e cadastro de itens. O sistema deve permitir ao usuário cadastrar, visualizar e gerenciar itens dentro do jogo, bem como realizar login para acessar suas informações.
 
+## Página de Login
 ![zelda login](https://github.com/user-attachments/assets/f66454c4-a2e3-4cb6-86c0-9954cc60c58d)
+
+## Login Incorreto
 ![image](https://github.com/user-attachments/assets/ad65e6e6-7daa-4103-b9c1-0b3e46b231f0)
 
 
