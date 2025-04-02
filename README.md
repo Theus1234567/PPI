@@ -1,4 +1,4 @@
-# PPI
+# Projeto Inventário jogo
 
 ## Qual o objetivo da atividade?
 
