@@ -1,6 +1,6 @@
 # PPI
 
-##Qual o objetivo da atividade?
+#Qual o objetivo da atividade?
 
 O objetivo da atividade é desenvolver um sistema de inventário para o jogo The Legend of Zelda: Tears of the Kingdom, utilizando três páginas principais: login, inventário e cadastro de itens. O sistema deve permitir ao usuário cadastrar, visualizar e gerenciar itens dentro do jogo, bem como realizar login para acessar suas informações.
 
