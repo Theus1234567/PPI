@@ -110,15 +110,29 @@ Instalar o servidor Apache, PHP e MySQL (XAMPP).
 
 Programar as funcionalidades de login, cadastro e visualização de itens utilizando PHP.
 
-##Executar o sistema:
+## Executar o sistema:
 
 Ativar o XAMPP Control Center;
 
 Dar o "Start" no Apache e no MySQL;
 
 Em um navegador, digite:
-
 localhost/MatheusINFO3/login.php
+
+# Códigos PHP
+
+## Login
+
+![php-login](https://github.com/user-attachments/assets/c1a3e07d-e790-409c-b68a-165203567608)
+
+## Inventário
+
+![php-inventario1](https://github.com/user-attachments/assets/e3a17da8-a894-41d3-9513-79ce5eb3a425)
+
+## Cadastrar itens
+
+![php-cadastro](https://github.com/user-attachments/assets/cd0ec5d1-73a1-44bb-bece-89391597993d)
+
 
 Autor: Matheus Gonçalves
 Turma: INFO3
